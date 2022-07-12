@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\bin\Debug\net6.0\Example003Sum.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\bin\Debug\net6.0\Example003Sum.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\bin\Debug\net6.0\Example003Sum.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\bin\Debug\net6.0\Example003Sum.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\bin\Debug\net6.0\Example003Sum.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\refint\Example003Sum.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\Example003Sum.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example003Sum\obj\Debug\net6.0\ref\Example003Sum.dll
