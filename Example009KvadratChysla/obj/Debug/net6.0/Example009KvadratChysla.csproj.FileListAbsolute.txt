@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\bin\Debug\net6.0\Example009KvadratChysla.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\bin\Debug\net6.0\Example009KvadratChysla.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\bin\Debug\net6.0\Example009KvadratChysla.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\bin\Debug\net6.0\Example009KvadratChysla.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\bin\Debug\net6.0\Example009KvadratChysla.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\refint\Example009KvadratChysla.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\Example009KvadratChysla.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example009KvadratChysla\obj\Debug\net6.0\ref\Example009KvadratChysla.dll
