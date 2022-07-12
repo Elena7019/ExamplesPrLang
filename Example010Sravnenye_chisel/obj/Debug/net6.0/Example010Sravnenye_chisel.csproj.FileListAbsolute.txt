@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\bin\Debug\net6.0\Example010Sravnenye_chisel.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\bin\Debug\net6.0\Example010Sravnenye_chisel.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\bin\Debug\net6.0\Example010Sravnenye_chisel.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\bin\Debug\net6.0\Example010Sravnenye_chisel.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\bin\Debug\net6.0\Example010Sravnenye_chisel.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\refint\Example010Sravnenye_chisel.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\Example010Sravnenye_chisel.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example010Sravnenye_chisel\obj\Debug\net6.0\ref\Example010Sravnenye_chisel.dll
