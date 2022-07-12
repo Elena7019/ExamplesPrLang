@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\bin\Debug\net6.0\Example008Triangle.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\bin\Debug\net6.0\Example008Triangle.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\bin\Debug\net6.0\Example008Triangle.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\bin\Debug\net6.0\Example008Triangle.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\bin\Debug\net6.0\Example008Triangle.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\refint\Example008Triangle.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\Example008Triangle.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example008Triangle\obj\Debug\net6.0\ref\Example008Triangle.dll
