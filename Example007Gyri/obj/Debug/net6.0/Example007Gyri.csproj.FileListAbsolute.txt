@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\bin\Debug\net6.0\Example007Gyri.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\bin\Debug\net6.0\Example007Gyri.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\bin\Debug\net6.0\Example007Gyri.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\bin\Debug\net6.0\Example007Gyri.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\bin\Debug\net6.0\Example007Gyri.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\refint\Example007Gyri.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\Example007Gyri.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example007Gyri\obj\Debug\net6.0\ref\Example007Gyri.dll
