@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\bin\Debug\net6.0\Example005SumRun.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\bin\Debug\net6.0\Example005SumRun.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\bin\Debug\net6.0\Example005SumRun.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\bin\Debug\net6.0\Example005SumRun.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\bin\Debug\net6.0\Example005SumRun.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\refint\Example005SumRun.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\Example005SumRun.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example005SumRun\obj\Debug\net6.0\ref\Example005SumRun.dll
