@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\bin\Debug\net6.0\Example011ADnyNed.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\bin\Debug\net6.0\Example011ADnyNed.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\bin\Debug\net6.0\Example011ADnyNed.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\bin\Debug\net6.0\Example011ADnyNed.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\bin\Debug\net6.0\Example011ADnyNed.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\refint\Example011ADnyNed.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\Example011ADnyNed.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example011ADnyNed\obj\Debug\net6.0\ref\Example011ADnyNed.dll
