@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\bin\Debug\net6.0\Example013AChisloN.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\bin\Debug\net6.0\Example013AChisloN.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\bin\Debug\net6.0\Example013AChisloN.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\bin\Debug\net6.0\Example013AChisloN.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\bin\Debug\net6.0\Example013AChisloN.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\refint\Example013AChisloN.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\Example013AChisloN.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example013AChisloN\obj\Debug\net6.0\ref\Example013AChisloN.dll
