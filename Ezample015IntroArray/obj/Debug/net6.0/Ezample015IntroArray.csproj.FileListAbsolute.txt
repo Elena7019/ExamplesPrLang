@@ -1,0 +1,5 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Ezample015IntroArray\obj\Debug\net6.0\Ezample015IntroArray.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Ezample015IntroArray\obj\Debug\net6.0\Ezample015IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Ezample015IntroArray\obj\Debug\net6.0\Ezample015IntroArray.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Ezample015IntroArray\obj\Debug\net6.0\Ezample015IntroArray.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Ezample015IntroArray\obj\Debug\net6.0\Ezample015IntroArray.csproj.CoreCompileInputs.cache
