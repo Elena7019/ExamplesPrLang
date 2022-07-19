@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\bin\Debug\net6.0\Example014MaxIsDev.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\bin\Debug\net6.0\Example014MaxIsDev.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\bin\Debug\net6.0\Example014MaxIsDev.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\bin\Debug\net6.0\Example014MaxIsDev.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\bin\Debug\net6.0\Example014MaxIsDev.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\refint\Example014MaxIsDev.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\Example014MaxIsDev.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example014MaxIsDev\obj\Debug\net6.0\ref\Example014MaxIsDev.dll
