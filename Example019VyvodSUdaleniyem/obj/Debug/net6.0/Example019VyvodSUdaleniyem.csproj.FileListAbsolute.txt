@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\bin\Debug\net6.0\Example019VyvodSUdaleniyem.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\bin\Debug\net6.0\Example019VyvodSUdaleniyem.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\bin\Debug\net6.0\Example019VyvodSUdaleniyem.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\bin\Debug\net6.0\Example019VyvodSUdaleniyem.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\bin\Debug\net6.0\Example019VyvodSUdaleniyem.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\refint\Example019VyvodSUdaleniyem.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\Example019VyvodSUdaleniyem.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example019VyvodSUdaleniyem\obj\Debug\net6.0\ref\Example019VyvodSUdaleniyem.dll
