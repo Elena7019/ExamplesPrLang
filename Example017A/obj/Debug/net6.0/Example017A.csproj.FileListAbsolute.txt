@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\bin\Debug\net6.0\Example017A.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\bin\Debug\net6.0\Example017A.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\bin\Debug\net6.0\Example017A.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\bin\Debug\net6.0\Example017A.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\bin\Debug\net6.0\Example017A.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\refint\Example017A.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\Example017A.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example017A\obj\Debug\net6.0\ref\Example017A.dll
