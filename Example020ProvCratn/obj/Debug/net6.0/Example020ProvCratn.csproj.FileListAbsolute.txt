@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\bin\Debug\net6.0\Example020ProvCratn.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\bin\Debug\net6.0\Example020ProvCratn.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\bin\Debug\net6.0\Example020ProvCratn.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\bin\Debug\net6.0\Example020ProvCratn.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\bin\Debug\net6.0\Example020ProvCratn.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\refint\Example020ProvCratn.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\Example020ProvCratn.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example020ProvCratn\obj\Debug\net6.0\ref\Example020ProvCratn.dll
