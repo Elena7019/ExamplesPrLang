@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\bin\Debug\net6.0\Example021ProvCratn.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\bin\Debug\net6.0\Example021ProvCratn.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\bin\Debug\net6.0\Example021ProvCratn.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\bin\Debug\net6.0\Example021ProvCratn.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\bin\Debug\net6.0\Example021ProvCratn.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\refint\Example021ProvCratn.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\Example021ProvCratn.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example021ProvCratn\obj\Debug\net6.0\ref\Example021ProvCratn.dll
