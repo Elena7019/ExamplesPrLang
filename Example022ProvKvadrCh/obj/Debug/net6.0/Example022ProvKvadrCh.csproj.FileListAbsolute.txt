@@ -1,0 +1,15 @@
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.csproj.AssemblyReference.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.AssemblyInfoInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.AssemblyInfo.cs
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.csproj.CoreCompileInputs.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\bin\Debug\net6.0\Example022ProvKvadrCh.exe
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\bin\Debug\net6.0\Example022ProvKvadrCh.deps.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\bin\Debug\net6.0\Example022ProvKvadrCh.runtimeconfig.json
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\bin\Debug\net6.0\Example022ProvKvadrCh.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\bin\Debug\net6.0\Example022ProvKvadrCh.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\refint\Example022ProvKvadrCh.dll
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.pdb
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\Example022ProvKvadrCh.genruntimeconfig.cache
+C:\Users\МайбородаЕВ\Desktop\PrLangr\Examples\Example022ProvKvadrCh\obj\Debug\net6.0\ref\Example022ProvKvadrCh.dll
